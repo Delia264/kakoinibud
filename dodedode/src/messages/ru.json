@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "title": "Иван Иванов | Frontend Разработчик",
+    "description": "Портфолио frontend-разработчика. Next.js, TypeScript, React. Создание современных веб-приложений.",
+    "keywords": "frontend, разработчик, Next.js, TypeScript, React, портфолио, веб-разработка"
+  },
+  "nav": {
+    "home": "Главная",
+    "about": "Обо мне",
+    "projects": "Проекты",
+    "contacts": "Контакты"
+  },
+  "hero": {
+    "greeting": "Привет, меня зовут",
+    "name": "Иван Иванов",
+    "role": "Frontend Разработчик",
+    "description": "Создаю современные, быстрые и доступные веб-приложения с использованием React, Next.js и TypeScript",
+    "cta": {
+      "primary": "Смотреть проекты",
+      "secondary": "Связаться со мной"
+    }
+  },
+  "about": {
+    "title": "Обо мне",
+    "subtitle": "Frontend-разработчик с опытом создания сложных веб-приложений",
+    "description": "Я специализируюсь на разработке пользовательских интерфейсов с использованием современных технологий. Моя цель — создавать продукты, которые не только выглядят красиво, но и работают быстро и надёжно.",
+    "location": "Москва, Россия",
+    "experience": "3+ года опыта",
+    "skills": {
+      "title": "Навыки",
+      "level": "{level}% уровень"
+    }
+  },
+  "projects": {
+    "title": "Проекты",
+    "subtitle": "Избранные работы",
+    "viewProject": "Посмотреть проект",
+    "liveDemo": "Демо",
+    "sourceCode": "Код"
+  },
+  "contacts": {
+    "title": "Контакты",
+    "subtitle": "Свяжитесь со мной",
+    "description": "Открыт для предложений и сотрудничества. Напишите мне!",
+    "form": {
+      "name": "Ваше имя",
+      "email": "Email",
+      "message": "Сообщение",
+      "submit": "Отправить",
+      "sending": "Отправка...",
+      "success": "Сообщение отправлено!",
+      "error": "Ошибка отправки"
+    },
+    "direct": {
+      "title": "Или напрямую:",
+      "email": "Email",
+      "telegram": "Telegram",
+      "github": "GitHub"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Иван Иванов. Все права защищены.",
+    "builtWith": "Создано с Next.js и Tailwind CSS"
+  },
+  "common": {
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "close": "Закрыть",
+    "menu": "Меню",
+    "darkMode": "Тёмная тема",
+    "lightMode": "Светлая тема",
+    "language": "Язык"
+  },
+  "notFound": {
+    "title": "Страница не найдена",
+    "description": "Страница, которую вы ищете, не существует.",
+    "back": "Вернуться на главную"
+  },
+  "skills": {
+    "nextjs": "Next.js",
+    "react": "React",
+    "typescript": "TypeScript",
+    "javascript": "JavaScript",
+    "tailwind": "Tailwind CSS",
+    "nodejs": "Node.js",
+    "git": "Git",
+    "figma": "Figma"
+  }
+}
